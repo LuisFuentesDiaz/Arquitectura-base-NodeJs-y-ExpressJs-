@@ -6,7 +6,7 @@ La base de datos está montada en MYSQL y sus datos son:
         database: "prueba"
         host: "localhost"
 
-#Instalacion
+# Instalacion
 una vez clonado el proyecto y creada la BD solo falta la sentencia "npm install"
 
 #arrancar!
