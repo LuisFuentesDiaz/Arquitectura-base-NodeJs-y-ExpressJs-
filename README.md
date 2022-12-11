@@ -1,4 +1,7 @@
-# base de datos
+# ARQUITECTURA
+Este es una aquitectura base de un proyecto en NodeJs
+Esta desarrollada con los conceptos de una Clean Architecture
+# BASE DE DATOS
 La base de datos está montada en MYSQL y sus datos son:
 
         username: "root"
@@ -6,10 +9,10 @@ La base de datos está montada en MYSQL y sus datos son:
         database: "prueba"
         host: "localhost"
 
-# Instalacion
+# INSTALACION
 una vez clonado el proyecto y creada la BD solo falta la sentencia "npm install"
 
-# arrancar!
+# ARRANCAR!
 el comando para arrancar el server es "npm run dev"
 
 # PROBAR LOS ENDPOINTS
