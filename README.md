@@ -1,6 +1,6 @@
 # ARQUITECTURA
-Este es una aquitectura base de un proyecto en NodeJs
-Esta desarrollada con los conceptos de una Clean Architecture
+Este es una aquitectura base de un proyecto en NodeJs.
+Esta desarrollada con los conceptos de una Clean Architecture con inyeccion de dependencias
 # BASE DE DATOS
 La base de datos está montada en MYSQL y sus datos son:
 
